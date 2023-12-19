@@ -1,6 +1,6 @@
 # Data Science Project
 
-Dataset:.[link][https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com]
+Dataset: [link][https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com]
 
 ## Built-in features
 - drugName (categorical): name of drug
