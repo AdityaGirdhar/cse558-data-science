@@ -21,3 +21,11 @@ else if usefulScore  < 0.5 :  Not Recommendable Drug
 
 ### Training features : TF-IDF matrix, along with condition, sentiment_score 
 ### Output Binary Prediction : useful Score 
+
+
+## Best Medicine for a given condition
+- For each condition, it identifies the data point with the highest confidence score (distance from the decision boundary) [ using logistic regression ] ( output is in .[output][output.txt]
+
+## Model: Best-K Review Scores
+
+- We devised a composite score to gauge product/service performance based on textual reviews
