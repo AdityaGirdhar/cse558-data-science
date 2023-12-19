@@ -28,4 +28,6 @@ else if usefulScore  < 0.5 :  Not Recommendable Drug
 
 ## Model: Best-K Review Scores
 
-- We devised a composite score to gauge product/service performance based on textual reviews
+- We devised a composite score to gauge product/service performance based on textual reviews. The formula is as follows:
+
+ review_score = 0.6*rating + 0.3*useful_count + 0.1*sentiment_score
