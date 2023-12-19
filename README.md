@@ -19,8 +19,8 @@ usefulScore was normalised
 if usefulScore  > 0.5 :  Recommendable Drug 
 else if usefulScore  < 0.5 :  Not Recommendable Drug
 
-### Training features : TF-IDF matrix, along with condition, sentiment_score 
-### Output Binary Prediction : useful Score 
+### Training features : TF-IDF matrix, condition
+### Output Binary Prediction : useful Score [ 0/1]
 
 
 ## Best Medicine for a given condition
