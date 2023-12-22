@@ -31,8 +31,8 @@
 
 - Used Convolutional Neural Network - The architecture employs pre-trained embeddings, followed by convolutional layers for n-gram feature extraction, ReLU activation, max pooling, and dropout (10%). A fully connected layer processes flattened output, achieving 88.4% accuracy.
 
-## Second Goal ( Recommend Medicines )
-- Model 1 ( Binary Prediction of any medicine )
+# Second Goal ( Recommend Medicines ) 
+## Model 1 : ( Binary Prediction of any medicine )
 - Metric : 
 usefulScore was normalised  
 if usefulScore  > 0.5 :  Recommendable Drug 
