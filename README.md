@@ -1,6 +1,6 @@
 # Data Science Project
 
-Dataset: [link][https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com]
+Dataset: [link](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
 
 ## Built-in features
 - drugName (categorical): name of drug
@@ -24,7 +24,7 @@ else if usefulScore  < 0.5 :  Not Recommendable Drug
 
 
 ## Best Medicine for a given condition
-- For each condition, it identifies the data point with the highest confidence score (distance from the decision boundary) [ using logistic regression ] ( output is in .[output][output.txt]
+- For each condition, it identifies the data point with the highest confidence score (distance from the decision boundary) [ using logistic regression ] ( output is in .[output](output.txt)
 
 ## Model: Best-K Review Scores
 
@@ -33,4 +33,4 @@ else if usefulScore  < 0.5 :  Not Recommendable Drug
  review_score = 0.6*rating + 0.3*useful_count + 0.1*sentiment_score
 ## Limitation
 
-Due to oversampling, some of the condition no. are generated to balance out the dataset for recommendable and non- recommendable medicines and hence, don't have a corresponding name associated with the condition id in [link][output.txt]
+Due to oversampling, some of the condition no. are generated to balance out the dataset for recommendable and non- recommendable medicines and hence, don't have a corresponding name associated with the condition id in [link](output.txt)
