@@ -1,7 +1,7 @@
 # Data Science Project
 
-Dataset: [link](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
-Acess Full report : [report](https://github.com/AdityaGirdhar/cse558-data-science/blob/main/DSc%20Final%20Presentation.pdf)
+- Dataset: [link](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)  
+- Access Full report : [report](https://github.com/AdityaGirdhar/cse558-data-science/blob/main/DSc%20Final%20Presentation.pdf)
 ## Built-in features
 - drugName (categorical): name of drug
 - condition (categorical): name of condition
